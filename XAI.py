@@ -336,6 +336,4 @@ def processData(csvPath, iteration, isUseConstraint, K): # '/home/zubair/Downloa
     # print(plt.axis())
     #
     # plt.show()
-
-
-# processData('/home/zubair/Downloads/optimization_log 1.csv', 1, True, 3)
+processData('/home/zubair/Downloads/optimization_log 1.csv', 1, False, 3)
